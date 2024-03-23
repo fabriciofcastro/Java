@@ -1,6 +1,6 @@
 package acadamy.devdojo.maratona.introducao;
 
-public class Aula05EstruturasCondicionaisIfElse {
+public class Aula05EstruturasCondicionaisIfElse01 {
     public static void main(String[] args) {
         int idade = 25;
         boolean isNaoAutorizado = idade < 20;
