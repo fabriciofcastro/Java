@@ -399,12 +399,9 @@ e vice versa
 178 - Coleções pt 18 - Map, HashMap, LinkedHashMap pt
 01
 
-179 - Coleções pt 19 - Map, HashMap, LinkedHashMap pt
+179 - Coleções pt 19 - Map, HashMap, LinkedHashMap pt 02
 
-02
-
-180 - Coleções pt 20 - Map, HashMap, LinkedHashMap pt
-03
+180 - Coleções pt 20 - Map, HashMap, LinkedHashMap pt 03
 
 181 - Coleções pt 21 - NavigableMap, TreeMap
 
@@ -413,6 +410,7 @@ e vice versa
 183 - Generics pt 01 - Introdução
 
 184 - Generics pt 02 - Wildcard pt 01
+
 185 - Generics pt 03 - Wildcard pt 02
 
 186 - Generics pt 04 - Classes Genéricas pt 01
@@ -443,7 +441,6 @@ estáticas
 198 - Method Reference pt 01 - Referência a métodos
 estáticos
 
-
 199 - Method Reference pt 02 - Referência a métodos não estáticos
 
 200 - Method Reference pt 03 - Referência a construtor
@@ -451,7 +448,6 @@ estáticos
 201 - Optional pt 01
 
 202 - Optional pt 02
-
 
 203 - Streams pt 01 - Introduction pt 01
 
