@@ -6,14 +6,14 @@ public class Aula07EstruturaRepeticaoExercicios03 {
         double valorCarro = 40000;
 
 
-            for (int parcela = 1; parcela <= valorCarro; parcela++) {
+        for (int parcela = 1; parcela <= valorCarro; parcela++) {
 
-                double valorParcela = valorCarro / parcela;
+            double valorParcela = valorCarro / parcela;
 
-                if (valorParcela >= 1000){
-                    System.out.println("Parcela "+ parcela+ " R$ "+ valorParcela);
-                    break;
-                }
+            if (valorParcela < 1000) {
+                break;
             }
+            System.out.println("Parcela " + parcela + " R$ " + valorParcela);
+        }
     }
 }
